@@ -65,47 +65,47 @@ Web3 项目的成功不仅取决于技术，还需要合理的经济模型和社
 - 2.7 Gnosis Safe 多签钱包产品分析
 - 2.8 抽象账户（AA）钱包底层业务逻辑
 - 2.9 从 0 开始设计一款去中心化钱包产品
-  - 🛞移动端钱包
-  - 🛞桌面钱包
-  - 🛞浏览器插件钱包
+  -移动端钱包
+  -桌面钱包
+  -浏览器插件钱包
 - 2.10 DappLink 一键发钱包产品全面解析
 - 2.11 DappLink 一键发 MPC托管系统全面解析
 - 2.12 本章小结
 
 ### 第三章：去中心化应用产品模块
 - 3.1 去中心化交易所产品底层实现分析
-  - 🛞 uniswap v1
-  - 🛞 uniswap v2
-  - 🛞 uniswap v3
-  - 🛞 uniswap v4
+  - uniswap v1
+  - uniswap v2
+  - uniswap v3
+  - uniswap v4
 - 3.2 去中心化衍生品交易所产品实现分析
   - DyDx
 - 3.3 聚合流动性平台 1Inch 产品底层逻辑分析
 - 3.4 质押借贷产品底层逻辑分析
-  - 🛞 Compound
-  - 🛞 Aave
+  - Compound
+  - Aave
 - 3.5 NFT 交易平台底层逻辑分析
 - 3.6 从 0 开始设计一个 RWA 产品
-  - 🛞 移动端 RWA 平台
-  - 🛞 桌面 RWA 平台
-  - 🛞 浏览器插件 RWA 平台
+  -  移动端 RWA 平台
+  - 桌面 RWA 平台
+  - 浏览器插件 RWA 平台
 - 3.7 深入剖析 DappLink 一键发去中心化可组合的应用
 - 3.8 本章小结
 
 ### 第四章: 公链产品模块
 - 4.1 公链代表项目底层实现分析
-  - 🛞 Bitcoin 及其生态
-  - 🛞 Ethereum 及其生态
-  - 🛞 Cosmos 及其生态
+  - Bitcoin 及其生态
+  - Ethereum 及其生态
+  - Cosmos 及其生态
 - 4.2. Layer2 代表项目底层实现分析
-  - 🛞 OpStack
-  - 🛞 PolygonZkevm
+  - OpStack
+  - PolygonZkevm
 - 4.3 DA 代表项目底层实现分析
-  - 🛞 EigenDA
-  - 🛞 Celestia
+  - EigenDA
+  - Celestia
 - 4.4 如何设计开发一款区块链浏览器产品
-  - 🛞 EVM 链
-  - 🛞 UTXO 链
+  - EVM 链
+  - UTXO 链
 - 4.5 公链桌面或者浏览器插件钱包产品设计
 - 4.6 跨链桥（L2 和 L3 公链）
   - 知名项目官方跨链桥业务流分析
@@ -135,9 +135,9 @@ Web3 项目的成功不仅取决于技术，还需要合理的经济模型和社
 ### 第六章：新型产品模块
 - 6.1 LST/LSD 产品业务流分析
 - 6.2 重新质押协议与知名项目分析
-  - 🛞 EigenLayer
-  - 🛞 Babylon
-  - 🛞 Symbiotic
+  - EigenLayer
+  - Babylon
+  - Symbiotic
 - 6.3 LST/LSD 和重新质押结合产品业务分析
 - 6.4 从 0 设计开发一款 L2->L1 的跨链质押产品
 - 6.5. Depin 产品全形态分析
