@@ -11,9 +11,9 @@
 
 - [链上开发篇《智能合约应用开发实战》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/dapp.md)
 
-- [公链篇:《公链底层原理与源码解析》]()
+- [公链篇:《公链底层原理与源码解析》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/chain.md)
 
-- [产品篇：《Web3 区块链产品经理实用指南》]()
+- [产品篇：《Web3 区块链产品经理实用指南》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/product.md)
 
 ## 二.售卖介绍
 
