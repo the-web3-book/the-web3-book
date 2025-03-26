@@ -128,24 +128,24 @@
     - 🛞OpStack SuperChain 构想与未来
   -  9.4 ZkEvm 板块 Polygon ZkEvm
     - 零知识算法的普及
-    - 🛞Polygon zkEvm 的 zkevm-node 源码解读
-    - 🛞Polygon zkEvm 的 zkevm-prover 源码讲解
-    - 🛞Polygon zkEvm 的 zkevm-prover 的 zk snark 和 stark 怎么构建分析
+    - Polygon zkEvm 的 zkevm-node 源码解读
+    - Polygon zkEvm 的 zkevm-prover 源码讲解
+    - Polygon zkEvm 的 zkevm-prover 的 zk snark 和 stark 怎么构建分析
   -  9.5 Arbitrum Nitro 和 Orbit 项目源码解读
-    - 🛞Arbitrum Nitro 的项目架构分析
-    - 🛞Arbitrum Nitro 源码解读
-    - 🛞深入理解 Arbi Gas Oracle 的细节实现
-    - 🛞基于 Orbit 构建 Layer3 应用链实战
-    - 🛞Orbit 构想与未来
+    - Arbitrum Nitro 的项目架构分析
+    - Arbitrum Nitro 源码解读
+    - 深入理解 Arbi Gas Oracle 的细节实现
+    - 基于 Orbit 构建 Layer3 应用链实战
+    - Orbit 构想与未来
   -  9.6  知名 Layer2 的官方桥源码解读
-    - 🛞ZkSync Era 官方桥源码解读
-    - 🛞Linea 官方桥源码解读
-    - 🛞Scroll 官方桥源码解读
-    - 🛞StarkNet 官方桥源码解读
+    - ZkSync Era 官方桥源码解读
+    - Linea 官方桥源码解读
+    - Scroll 官方桥源码解读
+    - StarkNet 官方桥源码解读
   -  9.7 基于 Babylon 开发一个通用型 Layer2 FP
-    - 🛞Rust 合约代码编写
-    - 🛞Fp 实现
-    - 🛞去中心化 Relayer 实现
+    - Rust 合约代码编写
+    - Fp 实现
+    - 去中心化 Relayer 实现
   -  9.8 本章小结
 
 ### 第 10 章：数据可用层底层原理以及代表项目源码解读
