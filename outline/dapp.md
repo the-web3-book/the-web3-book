@@ -2,7 +2,7 @@
 
 | 用户名 | 用户 ID | 头像 | 横幅 | The Web3 承诺 | 已购买人数 |
 |--------|---------|------|------|------|--------|
-| The Web3 | 0xtheweb3 | ![avatar](https://pbs.twimg.com/profile_images/1781583634979262466/j59yosRR_normal.jpg) | ![banner](https://pbs.twimg.com/profile_banners/1751058789783289856/1713538465) | 2025 年之前不对外开放 | 100 |
+| The Web3 | 0xtheweb3 | ![avatar](https://pbs.twimg.com/profile_images/1781583634979262466/j59yosRR_normal.jpg) | ![banner](https://pbs.twimg.com/profile_banners/1751058789783289856/1713538465) | 2025 年之前不对外开放 | 128 |
 
 # 第三册 链上开发篇《智能合约应用开发实战》
 
