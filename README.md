@@ -33,4 +33,15 @@
 ### 等待更新
 - 公链底层原理与源码解析
 - Web3 区块链产品经理实用指南
+
+## 特别鸣谢
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
   
