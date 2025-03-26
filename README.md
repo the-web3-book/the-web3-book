@@ -9,7 +9,7 @@
 
 - [钱包篇：《区块链钱包应用开发实战》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/wallet.md)
 
-- [链上开发篇《智能合约应用开发实战》]()
+- [链上开发篇《智能合约应用开发实战》](https://github.com/the-web3-book/the-web3-book/blob/main/outline/dapp.md)
 
 - [公链篇:《公链底层原理与源码解析》]()
 
